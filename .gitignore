@@ -1,0 +1,39 @@
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# logs
+npm-debug.log*
+
+# runtime data
+pids
+*.pid
+*.seed
+*.log
+
+# editors and IDEs
+.idea
+*.swp
+*.swo
+*.swn
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# macOS
+*.AppleDouble
+*.AppleDB
+*.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
